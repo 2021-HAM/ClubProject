@@ -1,2 +1,2 @@
-# ClubProject
-동아리 프로젝트 저장소
+# HAM 2021
+HAM 화이팅!
